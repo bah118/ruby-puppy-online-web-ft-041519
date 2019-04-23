@@ -10,7 +10,7 @@ class Dog
   end
   
   def self.all
-@@all 
+    puts @@all.to_s 
   end
   
   def self.clear_all
