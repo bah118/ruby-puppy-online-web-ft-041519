@@ -10,7 +10,6 @@ class Dog
   end
   
   def self.all
-    #@@all.each {|x| puts x}
     puts @@all 
   end
   
